@@ -2,7 +2,7 @@
 
 ## This script is used to enable the `Bluetooth` service in Arch Linux. 
 
-`Step 1:` Download the [enabler.sh](/enabler.sh) script.
+`Step 1:` Download the [enabler.sh](enabler.sh) script.
 
 `Step 2:` Grant executable permission to the script file.
 ```bash
